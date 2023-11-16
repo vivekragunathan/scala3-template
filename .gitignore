@@ -1,13 +1,19 @@
 .idea
+.fleet
 .bloop
 .bsp
 .vscode
 .eclipse
 .metals
+.scala
 
-*.iml
 target/
 logs
+
+*.class
+*.log
+*.args
+*.iml
 metals.sbt
 
 .DS_Store
