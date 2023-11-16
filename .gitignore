@@ -1,0 +1,13 @@
+.idea
+.bloop
+.bsp
+.vscode
+.eclipse
+.metals
+
+*.iml
+target/
+logs
+metals.sbt
+
+.DS_Store
